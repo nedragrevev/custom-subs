@@ -17,7 +17,7 @@ As for the translation itself, I almost always makes some minor adjustments but 
 |--------|--------|--------|--------|--------|--------|--------|--------|
 |5 Centimenters per Second|JP Global BD|kuchikirukia|Major|Yes|All lines|All relevant signs|Yes|
 |A Silent Voice|AU Madman BD|kametsu|Minor|Yes, version without included|All lines|Minor|Already present|
-|Detective Conan TV Special: EPISODE "ONE"|US Discotek/Eastern Star BD|Official (Extracted)|Major|Yes, version without included|All lines|All relevant signs|Yes|
+|Detective Conan TV Special: EPISODE "ONE"|US Discotek BD|Official (Extracted)|Major|Yes, version without included|All lines|All relevant signs|Yes|
 |I want to eat your pancreas|AU Madman BD|PAR|Major (every line)|Yes, version without included|All lines|All relevant signs|No, styled to match credits|
 |Nausicaä of the Valley of the Wind|AU Madman BD|Disney Official|Major <br/>(every line)|No|All lines|All relevant signs|N/A|
 |PATEMA INVERTED|UK AllTheAnime BD|Watashi|Major (every line + song)|No|All lines|N/A|English Lyrics Only|
@@ -36,6 +36,7 @@ As for the translation itself, I almost always makes some minor adjustments but 
 |Tanaka-kun wa Itsumo Kedaruge|US Sentai BD|kametsu (GJM)|Moderate to major|Yes|All lines|Moderate to major|Yes|
 |TARI TARI|US Sentai BD|project-gxs|Moderate (+Songs)|Yes|All lines|Major|Yes, includes inserts|
 |Tonari no Seki-kun|US Sentai BD|kony (Kaitou & Vivid)|Very Minor|Yes|Minor fixes to match encode|Minor fixes to match encode|Already present|
+|usagi drop|US NIS America BD|Official (Extracted)|In Progress|
 |VIOLET EVERGARDEN|AU Madman BD|asenshi|Moderate<br/>(OVA every line)|No|All lines|Minor fixes|OP k-effect added|
 |YURU CAMP|JP BD|asenshi|Moderate (+Songs)|Yes|All lines|Major|OP k-effect added|
 |HEYA CAMP|JP BD|asenshi|Minor|Yes|Minor (All lines checked)|Minor|Yes, for ED|
