@@ -36,7 +36,7 @@ As for the translation itself, I almost always makes some minor adjustments but 
 |Tanaka-kun wa Itsumo Kedaruge|US Sentai BD|kametsu (GJM)|Moderate to major|Yes|All lines|Moderate to major|Yes|
 |TARI TARI|US Sentai BD|project-gxs|Minor|Yes|All lines|Major|Yes, includes inserts|
 |Tonari no Seki-kun|US Sentai BD|kony (Kaitou & Vivid)|Very Minor|Yes|Minor fixes to match encode|Minor fixes to match encode|Already present|
-|usagi drop|US NIS America BD|Official (Extracted)|-|-|-|In Progress|-|
+|usagi drop|US NIS America BD|Official (Extracted)|In Progress|-|-|-|Yes|
 |VIOLET EVERGARDEN|AU Madman BD|asenshi|Moderate<br/>(OVA every line)|No|All lines|Minor fixes|OP k-effect added|
 |YURU CAMP|JP BD|asenshi|Moderate (+Songs)|Yes|All lines|Major|OP k-effect added|
 |HEYA CAMP|JP BD|asenshi|Minor|Yes|Minor (All lines checked)|Minor|Yes, for ED|
