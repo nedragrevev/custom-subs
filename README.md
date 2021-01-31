@@ -1,6 +1,6 @@
 # nedragrevev's English Subtitles
 
-This repository contains all the SSA English subtitles I've worked on or fixed to match the most common anime home releases. I own all the releases/physical media of the movies and series you see here myself. It may be slowly updated with the anime I own if I manage to find the time needed to do this. As of Feb 2021, I still have enough movies and series that I'd like to sub which would take a few years for me to complete (going at a reasonable pace), but I'm probably taking a break for now (it's extremely time-consuming, and a bit of a waste of time really).
+This repository contains all the SSA English subtitles I've worked on or fixed to match the most common anime home releases. I own all the releases/physical media of the movies and series you see here myself. It may be slowly updated with the anime I own if I manage to find the time needed to do this.
 
 ## My goals
 
