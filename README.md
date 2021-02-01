@@ -35,7 +35,7 @@ As for the translation itself, I almost always makes some minor adjustments but 
 |Sora yori mo Tooi Basho|JP BD|Coldgirls|Minor (+All Songs Translated)|Yes|All lines|Moderate|Already present.<br/>Minor changes.|
 |Tanaka-kun wa Itsumo Kedaruge|US Sentai BD|kametsu (GJM)|Moderate to major|Yes|All lines|Moderate to major|Yes|
 |TARI TARI|US Sentai BD|project-gxs|Minor|Yes|All lines|Major|Yes, includes inserts|
-|Tonari no Seki-kun|US Sentai BD|kony (Kaitou & Vivid)|Very Minor|Yes|Minor fixes to match encode|Minor fixes to match encode|Already present|
+|Tonari no Seki-kun|US Sentai BD|kony (Kaitou & Vivid)|Very Minor|Yes|Minor (All lines checked)|Minor fixes to match encode|Already present|
 |usagi drop|US NIS America BD|Official (Extracted)|Moderate to major|Yes|All lines|Extensive<br/>Completely new|Yes|
 |VIOLET EVERGARDEN|AU Madman BD|asenshi|Moderate<br/>(OVA every line)|No|All lines|Minor fixes|OP k-effect added|
 |YURU CAMP|JP BD|asenshi|Moderate (+Songs)|Yes|All lines|Major|OP k-effect added|
