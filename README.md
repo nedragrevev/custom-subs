@@ -17,9 +17,9 @@ As for the translation itself, I almost always makes some minor adjustments but 
 |--------|--------|--------|--------|--------|--------|--------|--------|
 |5 Centimenters per Second|JP Global BD|kuchikirukia|Major|Yes|All lines|Major|Yes|
 |A Silent Voice|AU Madman BD|kametsu|Minor|Yes, version without included|All lines|Minor|Already present|
-|Detective Conan TV Special: EPISODE "ONE"|US Discotek BD|Official (Extracted)|Major|Yes, version without included|All lines|Extensive<br/>Completely new|Yes|
-|I want to eat your pancreas|AU Madman BD|PAR|Major (every line)|Yes, version without included|All lines|Extensive<br/>Completely new|No, styled to match credits|
-|Nausicaä of the Valley of the Wind|AU Madman BD|Disney Official|Major <br/>(every line)|No|All lines|Minor<br/>Completely new|N/A|
+|Detective Conan TV Special: EPISODE "ONE"|US Discotek BD|Official (Extracted)|Extensive|Yes, version without included|All lines|Extensive<br/>Completely new|Yes|
+|I want to eat your pancreas|AU Madman BD|PAR|Extensive<br/>(every line)|Yes, version without included|All lines|Extensive<br/>Completely new|No, styled to match credits|
+|Nausicaä of the Valley of the Wind|AU Madman BD|Disney Official|Extensive<br/>(every line)|No|All lines|Minor<br/>Completely new|N/A|
 |PATEMA INVERTED|UK AllTheAnime BD|Watashi|Major (every line + song)|No|All lines|N/A|English Lyrics Only|
 
 ### Series worked on so far:
@@ -40,7 +40,7 @@ As for the translation itself, I almost always makes some minor adjustments but 
 |VIOLET EVERGARDEN|AU Madman BD|asenshi|Moderate<br/>(OVA every line)|No|All lines|Minor fixes|OP k-effect added|
 |YURU CAMP|JP BD|asenshi|Moderate (+Songs)|Yes|All lines|Major|OP k-effect added|
 |HEYA CAMP|JP BD|asenshi|Minor|Yes|Minor (All lines checked)|Minor|Yes|
-|HEYA CAMP Bonus (3-Wheeler EP)|JP BD|Hikki|Major (every line)|N/A|All lines|Major<br/>Completely new|N/A|
+|HEYA CAMP Bonus (3-Wheeler EP)|JP BD|Hikki|Extensive<br/>(every line)|N/A|All lines|Major<br/>Completely new|N/A|
 
 These releases include signs and songs only versions if the BD's I own have English dubs. Some have been adjusted to suit the differences if it was a quick job (for example, VE's English dub had a few extra insert songs not present in the JP dub), but most are simply versions where the lines for dialog have been removed.
 
