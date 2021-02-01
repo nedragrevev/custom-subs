@@ -20,7 +20,7 @@ As for the translation itself, I almost always makes some minor adjustments but 
 |Detective Conan TV Special: EPISODE "ONE"|US Discotek BD|Official (Extracted)|Extensive|Yes, version without included|All lines|Extensive<br/>Completely new|Yes|
 |I want to eat your pancreas|AU Madman BD|PAR|Extensive<br/>(every line)|Yes, version without included|All lines|Extensive<br/>Completely new|No, styled to match credits|
 |Nausicaä of the Valley of the Wind|AU Madman BD|Disney Official|Extensive<br/>(every line)|No|All lines|Minor<br/>Completely new|N/A|
-|PATEMA INVERTED|UK AllTheAnime BD|Watashi|Major (every line + song)|No|All lines|N/A|English Lyrics Only|
+|PATEMA INVERTED|UK AllTheAnime BD|Watashi|Extensive<br/>(every line + song)|No|All lines|N/A|English Lyrics Only|
 
 ### Series worked on so far:
 |Anime Series|BD/DVD Release|Started With|Translation Work|Honorifics?|Timing Work|Typesetting Work|Karaoke Added|
