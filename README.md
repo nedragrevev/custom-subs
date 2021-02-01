@@ -15,7 +15,7 @@ As for the translation itself, I almost always makes some minor adjustments but 
 ### Movies worked on so far:
 |Anime Movies|BD/DVD Release|Started With|Translation Work|Honorifics?|Timing Work|Typesetting Work|Karaoke Added|
 |--------|--------|--------|--------|--------|--------|--------|--------|
-|5 Centimenters per Second|JP Global BD|kuchikirukia|Major|Yes|All lines|Major<br/>All signs|Yes|
+|5 Centimenters per Second|JP Global BD|kuchikirukia|Major|Yes|All lines|Major|Yes|
 |A Silent Voice|AU Madman BD|kametsu|Minor|Yes, version without included|All lines|Minor|Already present|
 |Detective Conan TV Special: EPISODE "ONE"|US Discotek BD|Official (Extracted)|Major|Yes, version without included|All lines|Extensive<br/>Completely new|Yes|
 |I want to eat your pancreas|AU Madman BD|PAR|Major (every line)|Yes, version without included|All lines|Extensive<br/>Completely new|No, styled to match credits|
