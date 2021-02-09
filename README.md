@@ -8,7 +8,7 @@ This repository contains all the SSA English subtitles I've worked on or fixed t
 - Typesetting: Realistic and the reason why I do this. Enough said.
 - Songs: Appropriate karaoke effects where it works. Translation adjustments so the lyrics actually make sense (and still reflect the JP).
 - Translation: Honorifics preferred. Sensible unlocalized translations preferred (with the rare translation note if required), but a second localized version will usually be included. Interjections added back in if it looks better. No swear words while trying to still convey the emotions (and charateristics) of the speaker.
-As for the translation itself, I almost always makes some minor adjustments but I try to avoid translating as much as possible. Though if I think it's needed, and it's not 20+ episodes (or typeset heavy), I just might check and retranslate every line.
+As for the translation itself, I almost always makes some adjustments but given the amount of work & time involved, I try to avoid translating as much as possible. Though if I think it's desperately needed, and it's not 20+ episodes (or typeset heavy), I just might check and retranslate every line.
 - Dialog: Cabin SemiBold @ font size 68.
 
 ## Basic Details for Each of these Anime Subs
