@@ -19,6 +19,7 @@ As for the translation itself, I almost always makes some adjustments but given 
 |A Silent Voice|AU Madman BD|kametsu|Minor|Yes, version without included|All lines|Minor|Already present|
 |Detective Conan TV Special: EPISODE "ONE"|US Discotek BD|Official (Extracted)|Extensive|Yes, version without included|All lines|Extensive<br/>Completely new|Yes|
 |I want to eat your pancreas|AU Madman BD|PAR|Extensive<br/>(every line)|Yes, version without included|All lines|Extensive<br/>Completely new|No, styled to match credits|
+|In this Corner of the World|US Shout! Factory BD|MTBB|In Progress|||||
 |Nausicaä of the Valley of the Wind|AU Madman BD|Disney Official|Extensive<br/>(every line)|No|All lines|Minor<br/>Completely new|N/A|
 |PATEMA INVERTED|UK AllTheAnime BD|Watashi|Extensive<br/>(every line + song)|No|All lines|N/A|English Lyrics Only|
 
@@ -34,7 +35,7 @@ As for the translation itself, I almost always makes some adjustments but given 
 |Chihayafuru 2|US Sentai BD|Commie (v2)|TO DO|-|-|-|-|
 |Sora yori mo Tooi Basho|JP BD|Coldgirls|Minor (+All Songs Translated)|Yes|All lines|Moderate|Already present.<br/>Minor changes.|
 |Tanaka-kun wa Itsumo Kedaruge|US Sentai BD|kametsu (GJM)|Moderate to major|Yes|All lines|Moderate to major|Yes|
-|TARI TARI|US Sentai BD|project-gxs|Minor|Yes|All lines|Major|Yes, includes inserts|
+|TARI TARI\*|US Sentai BD|project-gxs|Minor|Yes|All lines|Major|Yes, includes inserts|
 |Tonari no Seki-kun|US Sentai BD|kony (Kaitou & Vivid)|Very Minor|Yes|Minor (All lines checked)|Minor fixes to match encode|Already present|
 |usagi drop|US NIS America BD|Official (Extracted)|Moderate to major|Yes|All lines|Extensive<br/>Completely new|Yes|
 |VIOLET EVERGARDEN|AU Madman BD|asenshi|Moderate<br/>(OVA every line)|No|All lines|Minor fixes|OP k-effect added|
@@ -44,5 +45,7 @@ As for the translation itself, I almost always makes some adjustments but given 
 
 These releases include signs and songs only versions if the BD's I own have English dubs. Some have been adjusted to suit the differences if it was a quick job (for example, VE's English dub had a few extra insert songs not present in the JP dub), but most are simply versions where the lines for dialog have been removed.
 
+\* TARI TARI was the first series I tried subbing that required more advanced/experienced typesetting skills. Looking at them today, I'm not at all happy with the typesetting I did (inaccurate blur for the most part), but I don't want to redo it. And it still offers something.
+
 ## How to use these files
-Use MKVToolNix's "Multiplexer" tab to combine/mux your encode with the relevant ".ass" sub file/s (required), all fonts (required), chapter xml if applicable, and cover.jpg if desired. Once started, the muxing process is as fast as your HDD, so in some cases it will only take a second or two.
+Use MKVToolNix's "Multiplexer" tab to combine/mux your encode with the relevant ".ass" sub file/s (required), all fonts (required), chapter xml if applicable, and cover image if desired. Once started, the muxing process is as fast as your HDD, so in some cases it will only take a second or two.
