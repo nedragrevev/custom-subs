@@ -2,7 +2,7 @@
 |--------|--------|--------|--------|--------|--------|--------|--------|
 |Chihayafuru|US Sentai BD|Commie (v2)|Minor to moderate|Yes, versions without included|All lines|Minor to moderate \#|08/2022|
 |Chihayafuru 2|US Sentai BD|Commie (v2)|Minor to moderate|Yes, versions without included|All lines|Moderate \#|08/2022|
-|Chihayafuru 3|US Sentai BD|Commie|Minor|Yes, versions without included|All lines|Moderate to major|01/2022|
+|Chihayafuru 3|US Sentai BD|Commie|Minor|Yes, versions without included|All lines|Moderate to major|08/2022|
 
 \# Blur: \be tags remain in seasons 1 and 2. If you're viewing these at a resolution other than 1080p, the blur is likely to look wrong. If your player uses VSFilter it might be okay.<br/>For season 3, all \be tags have been removed and \blur tags have been adjusted so these episodes should render fine at resolutions other than 1080p.
 
