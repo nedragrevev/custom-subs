@@ -23,7 +23,7 @@ Here are the poems that have been adjusted:
 
 ## Other Notes
 
-If you've previously downloaded season 1 from a few years ago, I've since made some critical changes and fixes, which includes more sensible translation choices, some other significant improvements, and the inclusion of versions without honorifics (with signs specifically adjusted to match). These should present far better than my first release which had mistakes and at least one questionable translation choice. As of the August 2022 revisions/dialogue checks, they have been improved even further (particularly season 2).
+If you've previously downloaded season 1 from a few years ago, I've since made some critical changes and fixes, which includes more sensible translation choices, some other significant improvements, and the inclusion of versions without honorifics (with signs specifically adjusted to match). As of the August 2022 revisions/dialogue checks, they have been improved even further (particularly season 2).
 
 These will work with the English dub as I've left in the poem translations with \an2 (bottom) alignment. The poem translations won't exactly match when there is dialogue between characters discussing a particular poem/card, though.
 
