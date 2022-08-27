@@ -1,14 +1,13 @@
 # nedragrevev's English Subtitles
 
 This repository contains all the SSA English subtitles I've worked on or fixed to match the most common anime home releases. I own all the releases/physical media of the movies and series you see here myself.<br/>
-I'll update/adjust/fix whenever I see the need to, so check out the date modified info (in tables below and the file's time stamp) to make sure you have the latest, especially with some of the major revisions and thorough dialogue checks I've since completed as of July 2022.
+I'm retired from subbing anything new, but I will still try to maintain these if necessary, so I'm happy to take onboard (and would welcome) any feedback, suggestions or constructive criticism.
 
-I'm still maintaining these as necessary, so I'm happy to take onboard (and would welcome) any feedback, suggestions or constructive criticism. If you find an error or have a problem with a particular translation, please open an issue here and I'll get onto it.
+### July & August 2022 Update
 
-### July 2022 Update
-
-Anything marked with the "Dialogue Checked" label has had a complete check for dialogue errors by reading all the lines in a text editor (Notepad++). It's the first time I've used this method to check for errors in dialogue, and it's extremely reliable, even with relatively insignificant and inconspicuous (when watching) grammatical issues.<br/>
-I'm confident that anything with this label is now completely free of errors and presents really well. They are highly likely to be the final releases, but any feedback is, of course, still welcome.
+Every release here (with the exception of *orange*) has had a complete dialogue check by reading every single dialogue line in a text editor (Notepad++). It's the first time I've used this method to check for errors in dialogue, and it's extremely reliable, even with relatively insignificant and inconspicuous (when watching) grammatical issues.<br/>
+I highly recommend updating to these latest updates. Many of these have been improved significantly when compared to previous versions I've released where a dialogue check was not done.<br/>
+I'm confident these subs, as they stand now, present really well in all areas, so they are highly likely to be the final releases, but any feedback is, of course, still welcome.
 
 ## My goals
 
