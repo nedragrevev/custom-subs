@@ -5,7 +5,7 @@ I'm retired from subbing anything new, but I will still try to maintain these if
 
 ### July & August 2022 Update
 
-Every release here (with the exception of *orange*) has had a complete dialogue check by reading every single dialogue line in a text editor (Notepad++). It's the first time I've used this method to check for errors in dialogue, and it's extremely reliable, even with relatively insignificant and inconspicuous (when watching) grammatical issues.<br/>
+Every release here (with the exception of *orange*) has now had a complete dialogue check by reading every single dialogue line in a text editor (Notepad++). It's the first time I've used this method to check for errors in dialogue, and it's extremely reliable, even with relatively insignificant and inconspicuous (when watching) grammatical issues.<br/>
 I highly recommend updating to these latest updates. Many of these have been improved significantly when compared to previous versions I've released where a dialogue check was not done.<br/>
 I'm confident these subs, as they stand now, present really well in all areas, so they are highly likely to be the final releases, but any feedback is, of course, still welcome.
 
@@ -25,7 +25,7 @@ I'm confident these subs, as they stand now, present really well in all areas, s
 |A Silent Voice|AU Madman BD|kametsu (35mm \+ LazyTS)|Minor to moderate|Yes, versions without included|All lines|Moderate|07/2022|
 |Detective Conan TV Special: EPISODE "ONE"|US Discotek BD|Official (Extracted)|Extensive|Yes, versions without included|All lines|Extensive<br/>Completely new|07/2022|
 |I want to eat your pancreas|AU Madman BD &<br/>US Aniplex BD|PAR|Extensive<br/>(every line)|Yes, versions without included|All lines|Extensive<br/>Completely new|07/2022|
-|Maquia: When the Promised Flower Blooms|AU Madman BD|Official (Extracted)|Major|No|All lines|Yes (One Sign)|08/2022|
+|Maquia: When the Promised Flower Blooms|AU Madman BD|Official (Extracted)|Major|No|All lines|Yes (One Sign)|09/2022|
 |In this Corner of the World|US Shout! Factory BD|MTBB|Extensive<br/>(every line)|Yes, versions without included|All lines|Moderate to major|07/2022|
 |PATEMA INVERTED|UK AllTheAnime BD|Watashi|Extensive<br/>(every line + song)|No|All lines|N/A|07/2022|
 
