@@ -23,7 +23,7 @@ I'm confident these subs, as they stand now, present really well in all areas, s
 |--------|--------|--------|--------|--------|--------|--------|--------|
 |5 Centimeters per Second|JP Global BD|kuchikirukia|Moderate|Yes, versions without included|All lines|Major<br/>Completely new|07/2022|
 |A Silent Voice|AU Madman BD|kametsu (35mm \+ LazyTS)|Minor to moderate|Yes, versions without included|All lines|Moderate|07/2022|
-|Detective Conan TV Special: EPISODE "ONE"|US Discotek BD|Official (Extracted)|Extensive|Yes, versions without included|All lines|Extensive<br/>Completely new|07/2022|
+|Detective Conan TV Special: EPISODE "ONE"|US Discotek BD|Official (Extracted)|Extensive|Yes, versions without included|All lines|Extensive<br/>Completely new|09/2022|
 |I want to eat your pancreas|AU Madman BD &<br/>US Aniplex BD|PAR|Extensive<br/>(every line)|Yes, versions without included|All lines|Extensive<br/>Completely new|07/2022|
 |Maquia: When the Promised Flower Blooms|AU Madman BD|Official (Extracted)|Major|No|All lines|Yes (One Sign)|09/2022|
 |In this Corner of the World|US Shout! Factory BD|MTBB|Extensive<br/>(every line)|Yes, versions without included|All lines|Moderate to major|07/2022|
