@@ -4,7 +4,7 @@ This repository contains all the SSA English subtitles I've worked on or fixed t
 
 ### July & August 2022 Update
 
-Every release here (with the exception of *orange*) has now had a complete dialogue check by reading every single dialogue line in a text editor (Notepad++). I've found that using this method to check for dialogue errors is extremely reliable, even with relatively insignificant and, when watching, unnoticeable grammatical issues such as erroneous/unnecessary punctuation.<br/>
+Every release here (with the exception of *orange*) has now had a complete dialogue check by reading every single dialogue line in a text editor. I've found that using this method to check for dialogue errors is extremely reliable, even with relatively insignificant and, when watching, unnoticeable grammatical issues such as erroneous/unnecessary punctuation.<br/>
 I highly recommend updating to these latest updates. Many of these have been improved significantly when compared to versions prior to these checks.<br/>
 I'm confident that these releases, as they stand now, present well in all areas, so what you see here now are probably the final releases (and I'm not subbing anymore, so there won't be anything new). Feedback is still welcome, though.
 
@@ -32,9 +32,9 @@ I'm confident that these releases, as they stand now, present well in all areas,
 |Series|BD/DVD Release|Started With|Translation Work|Honorifics|Timing Work|Typesetting Work|Last Modified|
 |--------|--------|--------|--------|--------|--------|--------|--------|
 |orange|US Funi BD|MK (GJM)|Very Minor|Yes|All lines|Very minor fixes|03/2022|
-|Sora yori mo Tooi Basho|JP BD|Coldgirls|Minor (+All Songs Translated)|Yes|All lines|Moderate|07/2022|
+|Sora yori mo Tooi Basho|JP BD|Coldgirls|Minor (+All Songs Translated)|Yes|All lines|Moderate|11/2022|
 |Tanaka-kun wa Itsumo Kedaruge|US Sentai BD|kametsu (GJM)|Moderate to major|Yes|All lines|Moderate to major|11/2022|
-|TARI TARI|US Sentai BD|project-gxs|Minor|Yes|All lines|Major \#|07/2022|
+|TARI TARI|US Sentai BD|project-gxs|Minor|Yes|All lines|Major<sup>\#</sup>|07/2022|
 |Tonari no Seki-kun|US Sentai BD|kony (Kaitou & Vivid)|Very Minor|Yes|All Lines (As of 01/2022)|Minor fixes to match encode|08/2022|
 |usagi drop|US NIS America BD|Official (Extracted)|Moderate to major|Yes|All lines|Extensive<br/>Completely new|07/2022|
 |VIOLET EVERGARDEN|AU Madman BD|asenshi|Moderate<br/>(OVA every line)|No|All lines|Minor fixes|07/2022|
