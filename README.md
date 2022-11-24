@@ -24,7 +24,7 @@ I'm confident that these releases, as they stand now, present well in all areas,
 |A Silent Voice|AU Madman BD|kametsu (35mm \+ LazyTS)|Minor to moderate|Yes, versions without included|All lines|Moderate|07/2022|
 |Detective Conan TV Special: EPISODE "ONE"|US Discotek BD|Official (Extracted)|Extensive|Yes, versions without included|All lines|Extensive<br/>Completely new|09/2022|
 |I want to eat your pancreas|AU Madman BD &<br/>US Aniplex BD|PAR|Extensive<br/>(every line)|Yes, versions without included|All lines|Extensive<br/>Completely new|07/2022|
-|Maquia: When the Promised Flower Blooms|AU Madman BD|Official (Extracted)|Major|No|All lines|Yes (One Sign)|09/2022|
+|Maquia: When the Promised Flower Blooms|AU Madman BD|Official (Extracted)|Major|No|All lines|Yes (One Sign)|11/2022|
 |In this Corner of the World|US Shout! Factory BD|MTBB|Extensive<br/>(every line)|Yes, versions without included|All lines|Moderate to major|07/2022|
 |PATEMA INVERTED|UK AllTheAnime BD|Watashi|Extensive<br/>(every line + song)|No|All lines|N/A|07/2022|
 
