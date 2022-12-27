@@ -2,9 +2,9 @@
 
 This repository contains all the SSA English subtitles I've worked on or fixed to match the most common anime home releases. I own all the releases/physical media of the movies and series you see here myself.<br/>
 
-### July & August 2022 Update
+### July 2022 Updates
 
-Every release here (with the exception of *orange*) has now had a complete dialogue check by reading every single dialogue line in a text editor. I've found that using this method to check for dialogue errors is extremely reliable, even with relatively insignificant and, when watching, unnoticeable grammatical issues such as erroneous/unnecessary punctuation.<br/>
+Every release here (with the exception of *orange*) has been quickly but thoroughly checked through for any grammatical errors by reading every single line of dialogue in a text editor.<br/>
 I highly recommend updating to these latest updates. Many of these have been improved significantly when compared to versions prior to these checks.<br/>
 I'm confident that these releases, as they stand now, present well in all areas, so what you see here now are probably the final releases (and I'm not subbing anymore, so there won't be anything new). Feedback is still welcome, though.
 
@@ -33,11 +33,11 @@ I'm confident that these releases, as they stand now, present well in all areas,
 |--------|--------|--------|--------|--------|--------|--------|--------|
 |orange|US Funi BD|MK (GJM)|Very Minor|Yes|All lines|Very minor fixes|03/2022|
 |Sora yori mo Tooi Basho|JP BD|Coldgirls|Minor (+All Songs Translated)|Yes|All lines|Moderate|11/2022|
-|Tanaka-kun wa Itsumo Kedaruge|US Sentai BD|kametsu (GJM)|Moderate to major|Yes|All lines|Moderate to major|11/2022|
+|Tanaka-kun wa Itsumo Kedaruge|US Sentai BD|kametsu (GJM)|Moderate to major|Yes|All lines|Moderate to major|12/2022|
 |TARI TARI|US Sentai BD|project-gxs|Minor|Yes|All lines|Major<sup>\#</sup>|07/2022|
 |Tonari no Seki-kun|US Sentai BD|kony (Kaitou & Vivid)|Very Minor|Yes|All Lines (As of 01/2022)|Minor fixes to match encode|08/2022|
 |usagi drop|US NIS America BD|Official (Extracted)|Moderate to major|Yes|All lines|Extensive<br/>Completely new|07/2022|
-|VIOLET EVERGARDEN|AU Madman BD|asenshi|Moderate<br/>(OVA every line)|No|All lines|Minor fixes|07/2022|
+|VIOLET EVERGARDEN|AU Madman BD|asenshi|Moderate<br/>(OVA every line)|No|All lines|Minor fixes|12/2022|
 
 These releases include signs and songs only versions if the BD's I own have English dubs. With a few exceptions, these versions have been adjusted to remove honorifics and any other differences. For example, VE's English dub has a few insert songs not present in the original Japanese dubbing.
 
