@@ -5,7 +5,7 @@
 |ARIA The ANIMATION|Kickstarter BD|P79068|Major (+Songs)|Yes|All lines|Moderate (SallySubs Edits)|08/2022|
 |ARIA The NATURAL|Kickstarter BD|SallySubs (Nozomi Translation)|Moderate (+Songs)|Yes|All lines|Moderate|08/2022|
 |ARIA The OVA \~The ARIETTA\~|Kickstarter BD|SallySubs (Nozomi Translation)|Minor|Yes|All lines|N/A|08/2022|
-|ARIA The ORIGINATION|Kickstarter BD|SallySubs (Nozomi Translation)|Minor to Moderate|Yes|All lines|Minor|08/2022|
+|ARIA The ORIGINATION|Kickstarter BD|SallySubs (Nozomi Translation)|Minor to Moderate|Yes|All lines|Minor|03/2023|
 |ARIA The AVVENIRE|Kickstarter BD|Nozomi Official (Extracted)|Minor to moderate|Yes|All lines|Minor|08/2022|
 
 ### Notes (August 2022):
