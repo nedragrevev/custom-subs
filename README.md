@@ -33,7 +33,7 @@ I'm confident that these releases, as they stand now, present well in all areas,
 |--------|--------|--------|--------|--------|--------|--------|--------|
 |orange|US Funi BD|MK (GJM)|Very Minor|Yes|All lines|Very minor fixes|03/2022|
 |Sora yori mo Tooi Basho|JP BD|Coldgirls|Minor (+All Songs Translated)|Yes|All lines|Moderate|11/2022|
-|Tanaka-kun wa Itsumo Kedaruge|US Sentai BD|kametsu (GJM)|Moderate to major|Yes|All lines|Moderate to major|02/2023|
+|Tanaka-kun wa Itsumo Kedaruge|US Sentai BD|kametsu (GJM)|Moderate to major|Yes|All lines|Moderate to major|04/2023|
 |TARI TARI|US Sentai BD|project-gxs|Minor|Yes|All lines|Major<sup>\#</sup>|07/2022|
 |Tonari no Seki-kun|US Sentai BD|kony (Kaitou & Vivid)|Very Minor|Yes|All Lines (As of 01/2022)|Minor fixes to match encode|08/2022|
 |usagi drop|US NIS America BD|Official (Extracted)|Moderate to major|Yes|All lines|Extensive<br/>Completely new|07/2022|
